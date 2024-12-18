@@ -1,6 +1,6 @@
 # Corey Chiu Portfolio Template
 
-This is a porfolio template template created by [Corey Chiu](https://coreychiu.com).
+This is a portfolio template template created by [Corey Chiu](https://coreychiu.com).
 
 
 ## Features

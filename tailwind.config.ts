@@ -88,8 +88,8 @@ export default {
   			}
   		]
   	},
-  	typography: 'typographyStyles',
   	extend: {
+			typography: typographyStyles,
   		borderRadius: {
   			lg: 'var(--radius)',
   			md: 'calc(var(--radius) - 2px)',
